@@ -7,3 +7,8 @@ font-family: 'poppins', sans-serif
 html{
 font-size: 62.5%;
 }
+
+.info{
+    max-width: 1200px;
+    width: 100%;
+}
